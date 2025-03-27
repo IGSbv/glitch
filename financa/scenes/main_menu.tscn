@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://cmwgrgw2rrogd"]
+
+[ext_resource type="Script" uid="uid://cr4uvj5y5m14m" path="res://financa/scenes/main_menu.gd" id="1_6enwq"]
+
+[node name="MainMenu" type="Node2D"]
+visible = false
+script = ExtResource("1_6enwq")
